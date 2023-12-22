@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerardo Fernández</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerardofernandez7&label=Profile%20views&color=0e75b6&style=flat" alt="gerardofernandez7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerardofernandez7" alt="gerardofernandez7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerardofernandez7" alt="gerardofernandez7" /></a> </p>
 
 - 📫 How to reach me **gerardofernandezcruzmt@gmail.com**
 
