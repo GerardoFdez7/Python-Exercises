@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerardo Fernández</h1>
-<h3 align="center">A passionate developer from Dominican Republic</h3>
+<h3 align="center">A passionate developer from Dominican Republic, studying at the Universidad del Valle de Guatemala</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerardofernandez7" alt="gerardofernandez7" /></a> </p>
 <br>
