@@ -12,10 +12,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GerardoFernandez7&theme=tokyonight&hide_border=true" alt="GerardoFernandez7's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoFernandez7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="GerardoFernandez7's Top Languages" />
-</p>
+| ![GerardoFernandez7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GerardoFernandez7&theme=tokyonight&hide_border=true) | ![GerardoFernandez7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoFernandez7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
