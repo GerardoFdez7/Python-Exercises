@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **fer23763@uvg.edu.gt**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Some Interesting Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GerardoFernandez7&theme=tokyonight&hide_border=true" alt="GerardoFernandez7's Streak" style="display: inline-block; margin-right: 10px;" />
