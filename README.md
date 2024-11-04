@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerardo Fernández</h1>
-<h3 align="center">A passionate developer from Dominican Republic 🇩🇴 looking forward to learn!</h3>
+<h3 align="center">A passionate developer from Dominican Republic <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" width="20" height="15" alt="Dominican Flag"> looking forward to learn!</h3>
 
 <br>
 
