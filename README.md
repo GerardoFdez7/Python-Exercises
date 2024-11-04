@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerardo Fernández</h1>
-<h3 align="center">A passionate developer from Dominican Republic🇩🇴 looking forward to learn!</h3>
+<h3 align="center">A passionate developer from Dominican Republic 🇩🇴 looking forward to learn!</h3>
 
 <br>
 
